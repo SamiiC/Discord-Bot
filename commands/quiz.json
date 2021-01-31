@@ -1,0 +1,88 @@
+[
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/tAkP7o9.png",
+		"answers": ["naruto"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/SFlhfzl.png",
+		"answers": ["kisame"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/Jpl62dV.png",
+		"answers":  ["Hashirama Sengu", "Hashirama", "Hashrama", "First Hokage"]
+
+	},
+	{
+		"question":"Who is this? \n",
+		"image": "https://imgur.com/IDKr8ga.png",
+		"answers": ["Kurama", "Kyubi", "9 tailed beast", "nine tails", "nine tail", "9 tails"]
+
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/9y1vlWK.png",
+		"answers": ["Ishikawa" , "First Tsuchikage"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/x6MNMiA.png",
+		"answers": ["A", "Ay", "First Raikage"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/USWJgLb.png",
+		"answers": ["Ebisu"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/YBPkKfR.png",
+		"answers": ["Genma"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/BC7oME9.png",
+		"answers": ["Hizashi Hyuga", "Hizashi"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/HzjuB1A.png",
+		"answers": ["Karui"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/itAooGI.png",
+		"answers": ["Moegi"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/GGS0RFj.png",
+		"answers": ["Shizune"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/UPCTkKi.png",
+		"answers": ["Tayuya"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/OL48iMI.png",
+		"answers": ["Yahiko"]
+	},
+	{
+		"question": "Who is this? \n",
+		"image": "https://imgur.com/a/B5PRu6g.jpg",
+		"answers": ["Homura"]
+	},
+	{
+		"question": "Who is thisssss? \n",
+		"image": "https://i.imgur.com/pLWNRhg.png",
+		"answers": "cat"
+
+	}
+
+		
+		
+]
