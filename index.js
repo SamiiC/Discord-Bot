@@ -8,7 +8,7 @@ const fetch = require('node-fetch');
 const { MessageAttachment } = require('discord.js');
 const { MessageEmbed } = require('discord.js');
 
-const token = 'NzExMjQ2MjkyODQ3Njg5ODE4.XsANug.IZQ1M7rk0Tj2Ln2m-nEFvlXtf58';
+
 const prefix = '!';
 const fs = require('fs');
 
@@ -24,7 +24,7 @@ for(const file of commandFiles){
 
 //  allows bot to start reacting to info
 bot.on('ready', () => {
-    console.log("Yo im online");
+    console.log("On");
     bot.user.setActivity(`yo`);
 })
 
@@ -47,4 +47,4 @@ bot.on('message', async msg => {
 
 })
 
-bot.login(token);
+bot.login(process.env.Token);
