@@ -1,5 +1,8 @@
 # Discord-Bot
-An attempt at a discord bot made in JS 😃 This code is by no means perfect but I have tried my best 
+An attempt at a discord bot made in JS 😃 
+
+This code is by no means perfect but I have tried my best 
+
 I may add to it in the future depending on if i can be bothered
 
 Things I have learnt:
