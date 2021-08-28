@@ -1,13 +1,13 @@
 # Discord-Bot
 An attempt at a discord bot made in JS 😃 
 
-This code is by no means perfect but I have tried my best 
+This code is by no means perfect.
 
-I may add to it in the future depending on if i can be bothered
+Will need to be updated to Discord JS 13
 
 Things I have learnt:
 - How to use promises
 - How to use fetch and get data from external APIs
 - Some asynchronous programming 
-- Discord JS and its commands
+- Discord JS 12 
 
